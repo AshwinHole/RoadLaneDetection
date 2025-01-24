@@ -86,10 +86,6 @@ Detected lane markings highlighted in red.
 
 Lane area filled with a translucent overlay for better visualization.
 
-Example
-
-Input video: vecteezy_time-lapse-driving-car-and-moving-on-road-in-bangkok-thailand_3153946.mp4
-Output video: output-test7(polynomial-degree1).mp4
 
 Contact
 
